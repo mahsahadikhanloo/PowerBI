@@ -20,3 +20,11 @@ A new measure has been created and added to the third page to display the target
 Overall, the report provides a user-friendly and interactive dashboard with the ability to click on a state and obtain detailed information about its performance over time. The color formatting has been employed effectively to provide a quick reference for the severity of the data, making it easy to compare across different states.
 
 Here is the [Dashboard](https://app.powerbi.com/groups/me/reports/f0713e29-dc91-4de6-b0ff-e59cb0000079/ReportSection4de471bb91cdaa0eb9eb)
+
+Other pages:
+
+<image src="/PowerBI_Project2/resources/PowerBI_Portfolio_2-2.jpg"/>
+
+<image src="/PowerBI_Project2/resources/PowerBI_Portfolio_2-3.jpg"/>
+
+<image src="/PowerBI_Project2/resources/PowerBI_Portfolio_2-4.jpg"/>
