@@ -4,7 +4,7 @@
 
 <image src="/PowerBI_Project2/resources/PowerBI_Portfolio_2-1.jpg"/>
 
-[Dashboard](https://app.powerbi.com/groups/me/reports/f0713e29-dc91-4de6-b0ff-e59cb0000079/ReportSection4de471bb91cdaa0eb9eb)
+[Dashboard in PowerBI Workspace](https://app.powerbi.com/groups/me/reports/f0713e29-dc91-4de6-b0ff-e59cb0000079/ReportSection4de471bb91cdaa0eb9eb)
 
 ### Introduction
 
