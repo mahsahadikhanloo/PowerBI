@@ -2,7 +2,7 @@
 
 ## Data Professional Survey Breakdown
 
-<image src="/resources/PowerBI_Portfolio_1.jpg"/>
+<image src="/PowerBI_Project1/resources/PowerBI_Portfolio_1.jpg"/>
 
 ### Introduction
 
