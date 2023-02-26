@@ -2,6 +2,8 @@
 
 ## Safety Awareness Dashboard
 
+<image src="/PowerBI_Project2/resources/PowerBI_Portfolio_2-1.jpg"/>
+
 ### Introduction
 
 This report provides an analysis of state information over a 12-year period from 2007 to 2018, encompassing millions of miles driven, the number of fatalities and their corresponding calculations, as well as the target. The report aims to provide a comprehensive overview of the data and assist in the identification of areas of concern.
