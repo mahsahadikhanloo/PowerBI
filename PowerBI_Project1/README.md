@@ -4,6 +4,8 @@
 
 <image src="/PowerBI_Project1/resources/PowerBI_Portfolio_1.jpg"/>
 
+[Dashboard in PowerBI Workspace](https://app.powerbi.com/groups/me/reports/86ab1e69-3b31-4678-9e8e-d5af56adb65a/ReportSection) in PowerBI workspace.
+
 ### Introduction
 
 Take a look at my dashboard featuring a survey of data professionals highlighting valuable insights into the salaries, programming language preferences such as SQL, Python, and RStudio, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
@@ -18,5 +20,3 @@ Analysis of the survey data revealed that Data Scientists are the highest-paid g
 The analysis also showed that Python is the most popular programming language among data professionals, followed by R and other languages such as C++, JavaScript, and Java. In terms of work-life balance, the respondents reported being generally happy with their positions, with the average score being above average. However, the average score for salary satisfaction was below average, indicating that many respondents are dissatisfied with their current compensation.
 
 In conclusion, the survey data provides valuable insights into the salaries, programming language preferences, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
-
-Here is the [Dashboard](https://app.powerbi.com/groups/me/reports/86ab1e69-3b31-4678-9e8e-d5af56adb65a/ReportSection) in PowerBI workspace.
