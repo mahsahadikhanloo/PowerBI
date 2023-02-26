@@ -4,6 +4,8 @@
 
 <image src="/PowerBI_Project2/resources/PowerBI_Portfolio_2-1.jpg"/>
 
+[Dashboard](https://app.powerbi.com/groups/me/reports/f0713e29-dc91-4de6-b0ff-e59cb0000079/ReportSection4de471bb91cdaa0eb9eb)
+
 ### Introduction
 
 This report provides an analysis of state information over a 12-year period from 2007 to 2018, encompassing millions of miles driven, the number of fatalities and their corresponding calculations, as well as the target. The report aims to provide a comprehensive overview of the data and assist in the identification of areas of concern.
@@ -18,8 +20,6 @@ The "Fatalities" page has been formatted to show trends and allow for "drill thr
 A new measure has been created and added to the third page to display the target line alongside the stacked column chart.
 
 Overall, the report provides a user-friendly and interactive dashboard with the ability to click on a state and obtain detailed information about its performance over time. The color formatting has been employed effectively to provide a quick reference for the severity of the data, making it easy to compare across different states.
-
-Here is the [Dashboard](https://app.powerbi.com/groups/me/reports/f0713e29-dc91-4de6-b0ff-e59cb0000079/ReportSection4de471bb91cdaa0eb9eb)
 
 Other pages:
 
