@@ -6,8 +6,8 @@
 
 ### Introduction
 
-Take a look at my dashboard featuring a survey of data professionals highlighting valuable insights into the salaries, programming language preferences such as #SQL #Python and #RStudio, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
-To access the raw data click [here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx). The result is really interesting as we did analysis with real data. 
+Take a look at my dashboard featuring a survey of data professionals highlighting valuable insights into the salaries, programming language preferences such as SQL, Python, and RStudio, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
+To access the raw data click [here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx). The result is really interesting as we did analysis with real data.
 
 ### Report Analysis
 
@@ -19,5 +19,4 @@ The analysis also showed that Python is the most popular programming language am
 
 In conclusion, the survey data provides valuable insights into the salaries, programming language preferences, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
 
-
-
+Here is the [Dashboard](https://app.powerbi.com/groups/me/reports/86ab1e69-3b31-4678-9e8e-d5af56adb65a/ReportSection) in PowerBI workspace.
