@@ -20,3 +20,4 @@ Analysis of the survey data revealed that Data Scientists are the highest-paid g
 The analysis also showed that Python is the most popular programming language among data professionals, followed by R and other languages such as C++, JavaScript, and Java. In terms of work-life balance, the respondents reported being generally happy with their positions, with the average score being above average. However, the average score for salary satisfaction was below average, indicating that many respondents are dissatisfied with their current compensation.
 
 In conclusion, the survey data provides valuable insights into the salaries, programming language preferences, and work-life balance of data professionals. The findings can be useful for individuals seeking to better understand their position within the industry, as well as for organizations looking to attract and retain talented data professionals.
+
