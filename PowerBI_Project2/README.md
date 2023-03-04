@@ -2,7 +2,7 @@
 
 ## Safety Awareness Dashboard
 
-<image src="/PowerBI/resources/PowerBI2.gif"/>
+<image src="../PowerBI/resources/PowerBI2.gif"/>
 
 [Dashboard in PowerBI Workspace](https://app.powerbi.com/groups/me/reports/f0713e29-dc91-4de6-b0ff-e59cb0000079/ReportSection4de471bb91cdaa0eb9eb)
 
